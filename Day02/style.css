@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #ffffff;
 }
 
 .resume-contents {
@@ -41,7 +41,7 @@ body {
 }
 
 .profile .profile-image {
-    width: 100%;
+    width: 90%;
     border-radius: 50%;
     border: 8px solid #1B2631;
 }
@@ -109,7 +109,7 @@ body {
     letter-spacing: 1px;
     display: flex;
     align-items: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .referance-name {
