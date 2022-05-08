@@ -11,3 +11,5 @@
 ### Day 03 - Continuar inserindo as informações dentro do currículo virtual
 
 ### Day 04 - Continuar inserindo as informações dentro do currículo virtual, arrumamos o CSS para ficar mais palatável
+
+### Day 05 - Inserimos informação de cursos
